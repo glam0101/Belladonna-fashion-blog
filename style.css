@@ -1,0 +1,164 @@
+.header{
+    font-family: Palatino Linotype;
+    font-size: 160px;
+    text-align: center;
+    margin-top: 40px;
+    font-weight: 440;
+    color: #080938;
+  }
+
+.subheader{
+  width: 700px;
+  }
+
+  .subcenter{
+    display: grid;
+    place-items: center;
+    margin-top: -200px;
+  }
+
+  .card{
+    display: block;
+    width: 500px;
+    height: 520px;
+    border-radius: 20px;
+    background-color: rgb(80, 121, 143);
+  }
+  
+  #article1{
+  float: left;
+  margin-top: -10px;
+  margin-left: 70px;
+
+  display: grid;
+  place-items: center;
+  }
+
+  #article2{
+    float: left;
+    margin-top: -10px;
+    margin-left: 95px;
+
+    display: grid;
+    place-items: center;
+  }
+
+  #article3{
+    float: right;
+    margin-top: -10px;
+    margin-right: 70px;
+
+    display: grid;
+    place-items: center;
+  }
+
+  .rowoneimg {
+     margin-top: 5px;
+     width: 94%;
+  }
+
+
+
+  #article4 {
+    float: left;
+    margin-top: 40px;
+    margin-left: 70px;
+  
+    display: grid;
+    place-items: center;
+  }
+  
+  #article5 {
+    float: left;
+    margin-top: 40px;
+    margin-left: 95px;
+
+    display: grid;
+    place-items: center;
+  }
+
+  #article6 {
+    float: right;
+    margin-top: 40px;
+    margin-right: 70px;
+
+    display: grid;
+    place-items: center;
+  }
+
+  .rowtwoimg {
+    margin-top: 5px;
+    width: 94%;
+ }
+
+ 
+
+
+.pagebttm{
+  margin-top: 1240px;
+}
+
+ #leftbttmimg{
+  float: left;
+  margin-top: 20px;
+  margin-left: 200px;
+  margin-bottom: 140px;
+
+ }
+
+ #rightbttmimg{
+  float: right;
+  margin-top: 50px;
+  margin-right: 70px;
+ }
+
+#veiwblock{
+display: block;
+height: 80px;
+width: 390px;
+border-radius: 15px;
+background-color: rgb(80, 121, 143);
+
+float: left;
+margin-top: 60px;
+margin-left: 95px;
+
+position: relative;
+}
+
+#veiwblock img[src="images/veiw.png"] {
+  width: 85%;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#aboutblock{
+display: block;
+height: 80px;
+width: 200px;
+border-radius: 15px;
+background-color: rgb(80, 121, 143);
+
+float: left;
+margin-top: 210px;
+margin-left: 190px;
+
+position: relative;
+}
+
+#aboutblock img[src="images/abt.png"] {
+  width: 85%;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+  body {
+    background-color: #77a1b4;
+  }
