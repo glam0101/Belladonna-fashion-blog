@@ -1,7 +1,7 @@
 # Belladonna fashion blog
 A tulip themed fashion website project created by GLAM
 
-(![screenshot of the website landing page](READMEimage-1.png))
+![screenshot of the website landing page](READMEimage-1.png)
 
 
 ## introduction
